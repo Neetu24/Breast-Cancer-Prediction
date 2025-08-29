@@ -1,4 +1,4 @@
-## 🧠 Breast Cancer Prediction Using Logistic Regression
+## 🧠 Breast Cancer Prediction 
 
 ### 📌 Project Description
 
